@@ -16,7 +16,7 @@ This course introduced me to Python fundamentals, including:
 - NumPy for data manipulation and exploration
 
 **Certificate:**  
-[View Certificate](Introduction_to_Python_Certificate.pdf)
+[View Certificate](Python_Intro_Certificate.pdf)
 
 ---
 
