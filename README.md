@@ -16,7 +16,22 @@ This course introduced me to Python fundamentals, including:
 - NumPy for data manipulation and exploration
 
 **Certificate:**  
-[View Certificate](Python_Intro_Certificate.pdf)
+[View Certificate](link-to-intro-python-cert)
+
+## 📘 Intermediate Python
+**Platform:** DataCamp  
+**Date Completed:** October 2025  
+
+Improved Python skills with:
+- Data visualization using Matplotlib
+- Working with dictionaries and pandas DataFrames
+- Boolean logic
+- Loops
+- Control flow.
+Applied skills through practical exercises and a case study using hacker statistics.  
+
+**Certificate:**  
+[View Certificate](link-to-intermediate-python-cert)
 
 ---
 
